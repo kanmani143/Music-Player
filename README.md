@@ -1,8 +1,8 @@
-## Musci Player
+# Musci Player
+## Javascript
+## HTML
+## CSS
 ### This contains 10 english famous songs
-### Javascript
-### HTML
-### CSS
 #### 1.Believer
 #### 2.Dandelions
 #### 3.Dusk till Dawn
