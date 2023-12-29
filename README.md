@@ -1,4 +1,4 @@
-# Musci Player
+# Music Player
 ## Javascript
 ## HTML
 ## CSS
